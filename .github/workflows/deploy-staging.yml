@@ -13,7 +13,6 @@ env:
   #################################################
   ### REPLACE USERNAME WITH GH USERNAME         ###
   AZURE_WEBAPP_NAME: MariekieCoetzee-ttt-app
-  #################################################
 
 jobs:
   build:
